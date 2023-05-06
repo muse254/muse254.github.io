@@ -4,14 +4,14 @@ const config = {
   github: {
     username: 'muse254', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/osoro-bironga-6646b0185/',
+    linkedin: 'osoro-bironga-6646b0185/',
     //  twitter: 'arif_szn',
     //  mastodon: 'arifszn@mastodon.social',
     //  facebook: '',
@@ -116,7 +116,7 @@ const config = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
