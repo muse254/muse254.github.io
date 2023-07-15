@@ -21,20 +21,21 @@ const config = {
     //  medium: 'arifszn',
     //  dev: 'arifszn',
     stackoverflow: '10020745/Osoro', // format: userid/username
+    upwork: 'https://www.upwork.com/freelancers/osoro',
     //  skype: '',
     //  telegram: '',
-    website: 'https://osoro.dev',
-    phone: '',
+    // website: 'https://osoro.dev',
+    phone: '+254707079904',
     email: 'fanosoro@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1L1n2oPCYTMADZYhO4r3iOuVL505nCciC/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/16vGA_ISS6dSZaL8u4W-6QvltMvLOg7bg/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Go',
     'Rust',
-    'Haskell',
+    'Zig',
     'Node.js',
     'MySQL',
     'PostgreSQL',
