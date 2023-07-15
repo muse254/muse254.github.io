@@ -70,7 +70,7 @@ const config = {
       institution: 'Moi University',
       degree: 'B.Sc in Computer Science',
       from: '2019',
-      to: '2022',
+      to: '2023',
     },
     {
       institution: 'Nairobi School',
@@ -86,8 +86,8 @@ const config = {
       title: 'Speak Programming Language',
       description:
         'Speak is an experimental programming language that aims to have configurable keywords. This is in an attempt to allow for the use of multiple written languages as preferred by the programmer.',
-      imageUrl: 'https://github.com/muse254/speak/raw/main/assets/logo.png',
-      link: 'https://github.com/muse254/speak',
+      imageUrl: 'https://github.com/speak-lang/speak/raw/main/assets/logo.png',
+      link: 'https://github.com/speak-lang/speak',
     },
   /*  {
       title: 'Project Name',
